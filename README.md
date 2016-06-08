@@ -4,7 +4,7 @@
 *@DarkRingTeam*
 
 #Developed_By:
-*NitrogenBoy*
+@NitrogenBoy
 
 #sudo_users:
 *@NitrogenBoy*
