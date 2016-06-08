@@ -1,21 +1,27 @@
 **An advanced and powerful administration bot based on [Teleseed/telegram-bot]**.
 
-#Our_Team: @DarkRingTeam#
+#Our_Team:
+*@DarkRingTeam*
 
 #Developed_By:
-@NitrogenBoy
+*NitrogenBoy*
 
 #sudo_users:
-@NitrogenBoy 
-@Sitowpernase 
-@Artin1694 
+*@NitrogenBoy*
+
+*@Sitowpernase*
+
+*@Artin1694*
 
 #Special_Thanks_To :
-@Solid021
-@BeyondTeam
-@I_am_Jan123
-@Sudo_Vira_DrCyber_DAD
+*@Solid021*
 
-And Everybody Help Me To MAde This Bot :)
+*@BeyondTeam*
 
-Please Star To Us!
+*@I_am_Jan123*
+
+*@Sudo_Vira_DrCyber_DAD*
+
+*_And Everybody Help Me To MAde This Bot :)_*
+
+#Please Star To Us!
