@@ -237,7 +237,7 @@ function create_config( )
     about_text = [[DarkRing v 1.0
 An advanced administration bot based on TeleSeed written in Lua
 
-https://github.com/NitrogenBoy/TeleDarkRing
+https://github.com/DarkRing/TeleDarkRing
 
 Sudo Users
 @NitrogenBoy
