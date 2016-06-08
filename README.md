@@ -22,6 +22,6 @@
 
 *@Sudo_Vira_DrCyber_DAD*
 
-*_And Everybody Help Me To MAde This Bot :)_*
+*_And Everybody Help Me To Create This Bot :)_*
 
 #Please Star To Us!
